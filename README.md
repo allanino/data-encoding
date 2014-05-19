@@ -1,4 +1,4 @@
-# Data to image
+# Encoding data as image
 
 This repository contains some experiments in which we search for good ways of converting data to images capable of class distinction. For more information, please refer to this [partial report].
 
