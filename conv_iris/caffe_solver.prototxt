@@ -1,0 +1,12 @@
+train_net: "caffe_train.prototxt"
+test_net: "caffe_test.prototxt"
+test_iter: 1
+test_interval: 300
+base_lr: 0.0001
+momentum: 0.9
+weight_decay: 0.004
+lr_policy: "fixed"
+display: 10
+max_iter: 300
+# solver mode: 0 for CPU and 1 for GPU
+solver_mode: 1

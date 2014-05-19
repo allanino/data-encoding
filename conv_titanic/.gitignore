@@ -1,0 +1,6 @@
+_*
+*.jpg
+*.png
+mean.binaryproto
+*.txt
+*.leveldb/
